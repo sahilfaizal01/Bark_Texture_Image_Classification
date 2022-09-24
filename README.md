@@ -37,10 +37,10 @@ Steps followed:-
 
 ## Model Evaluation
 ### Testing Phase
-![image](https://user-images.githubusercontent.com/106440078/190656989-9f28967c-4a06-48fe-8d08-006e9fe7ff94.png)
-![image](https://user-images.githubusercontent.com/106440078/190657425-2714f3b9-5454-40e7-8d9e-790d3c63ee95.png)
-![image](https://user-images.githubusercontent.com/106440078/190657490-eee79ca5-9cf7-4310-8e48-a431ad3c8930.png)
-![image](https://user-images.githubusercontent.com/106440078/190657562-5e33ec9b-c390-4c06-a48f-d3e3bb9ac663.png)
+![image](https://user-images.githubusercontent.com/106440078/192083369-3a9a6d00-3f16-4e9b-a4eb-97aac94f34d1.png)
+![image](https://user-images.githubusercontent.com/106440078/192083390-d0ce9c1d-2a84-4e7b-adb1-7803df216cea.png)
+![image](https://user-images.githubusercontent.com/106440078/192083406-9e52d50d-2348-4922-aef4-49673f0cf4d6.png)
+![image](https://user-images.githubusercontent.com/106440078/192083416-b7d37c2d-16fb-456b-8b3b-06a2e80585a5.png)
 
 ### Training Phase
 ![image](https://user-images.githubusercontent.com/106440078/190657199-cb05fba0-6728-4b59-b3d5-0027218dfef7.png)
@@ -52,7 +52,8 @@ Steps followed:-
 ![image](https://user-images.githubusercontent.com/106440078/190658335-85835115-1027-42bf-bb7f-7fc70a2b8ad9.png)
 
 ## Classification Report
-![image](https://user-images.githubusercontent.com/106440078/190658119-75e30ebd-dafc-47ba-b80f-1c312e1dfb81.png)
+![image](https://user-images.githubusercontent.com/106440078/192083308-7788b3f9-420d-4909-863b-b51cd99fb5e9.png)
+
 
 
 ## Acknowledgment - for Data
