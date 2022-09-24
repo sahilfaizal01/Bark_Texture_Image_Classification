@@ -47,9 +47,9 @@ Steps followed:-
 
 ## Accuracy and Loss Curves
 ### Accuracy Curve
-![image](https://user-images.githubusercontent.com/106440078/190658228-0c5fc867-73c1-46c0-b0d7-4ced5635aed2.png)
+![image](https://user-images.githubusercontent.com/106440078/192083619-c656e733-da02-4adf-a14c-8f1eceb2ace6.png)
 ### Loss Curve
-![image](https://user-images.githubusercontent.com/106440078/190658335-85835115-1027-42bf-bb7f-7fc70a2b8ad9.png)
+![image](https://user-images.githubusercontent.com/106440078/192083612-7cc27e28-b7fb-4f15-adec-dad0a783ffe6.png)
 
 ## Classification Report
 ![image](https://user-images.githubusercontent.com/106440078/192083308-7788b3f9-420d-4909-863b-b51cd99fb5e9.png)
